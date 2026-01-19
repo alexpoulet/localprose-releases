@@ -21,11 +21,7 @@ Ne louez plus votre intelligence aux services IA dans le Cloud. **LocalProse** e
 * **♾️ Zéro limite de crédits :** Testez 50 variantes d'une phrase si vous voulez. Aucun compteur ne tourne. Le "droit au gâchis" est rétabli.
 * **🎙️ Parlez, c'est écrit :** Module de dictée vocale (speech-to-text) embarqué. Capturez vos idées à la vitesse de la pensée.
 
-## 🖼️ Aperçu
-
-![Interface LocalProse - Mode Éditeur](https://www.localprose.com/assets/images/screenshots/localprose_ecran_intro.png)
-
-> *"L'interface s'efface pour laisser place au texte."*
+![Interface LocalProse](https://www.localprose.com/assets/images/screenshots/localprose_ecran_intro.png)
 
 ## 🛠️ Installation
 
