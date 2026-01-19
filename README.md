@@ -23,6 +23,8 @@ Ne louez plus votre intelligence aux services IA dans le Cloud. **LocalProse** e
 
 ![Interface LocalProse](https://www.localprose.com/assets/images/screenshots/localprose_ecran_intro.png)
 
+![Interface LocalProse - Editeur](https://www.localprose.com/assets/images/screenshots/localprose_editeur.png)
+
 ## 🛠️ Installation
 
 1.  Rendez-vous dans l'onglet **[Releases](https://github.com/alexpoulet/LocalProse-Releases/releases)**.
@@ -30,7 +32,7 @@ Ne louez plus votre intelligence aux services IA dans le Cloud. **LocalProse** e
     * Windows : `.exe`
     * macOS : `.dmg` (Apple Silicon)
 3.  Lancez l'installation.
-    * *Note : Au premier lancement, le logiciel téléchargera les modèles IA nécessaires pour fonctionner hors-ligne.*
+    * *Note : Au premier lancement, le logiciel téléchargera les modèles IA nécessaires pour fonctionner 100% localement par la suite.*
 
 ---
 
