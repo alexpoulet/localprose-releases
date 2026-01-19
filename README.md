@@ -23,7 +23,7 @@ Ne louez plus votre intelligence aux services IA dans le Cloud. **LocalProse** e
 
 ## 🖼️ Aperçu
 
-![Interface LocalProse - Mode Éditeur](https://www.localprose.com/assets/images/screenshots/localprose_editeur.png)
+![Interface LocalProse - Mode Éditeur](https://www.localprose.com/assets/images/screenshots/localprose_ecran_intro.png)
 
 > *"L'interface s'efface pour laisser place au texte."*
 
