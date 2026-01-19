@@ -38,5 +38,5 @@ Ne louez plus votre intelligence aux services IA dans le Cloud. **LocalProse** e
 
 ### À propos
 
-Conçu par **[Alexandre Poulet](https://www.localprose.com)**.
+Conçu par **[Alexandre Poulet](https://www.alexandre-poulet.com)**, Président de **[Poulet Interactive](https://www.pouletinteractive.com)**.
 *Retrouvez le manifeste complet sur [LocalProse.com](https://www.localprose.com).*
