@@ -15,7 +15,8 @@
 
 ## ✍️ Pourquoi LocalProse ?
 
-Ne louez plus votre intelligence aux services IA dans le Cloud. **LocalProse** est un atelier d'écriture qui tourne sur **VOTRE** machine.
+Ne louez plus votre intelligence aux services IA dans le Cloud. 
+**LocalProse** est un atelier d'écriture qui tourne sur **VOTRE** machine.
 
 * **🏠 IA 100% chez vous :** Vos brouillons et vos idées restent sur votre disque dur. Personne ne lit par-dessus votre épaule. Aucune donnée n'est envoyée dans le cloud.
 * **♾️ Zéro limite de crédits :** Testez 50 variantes d'une phrase si vous voulez. Aucun compteur ne tourne. Le "droit au gâchis" est rétabli.
