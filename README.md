@@ -19,7 +19,7 @@ Ne louez plus votre intelligence aux services IA dans le Cloud. **LocalProse** e
 
 * **🏠 IA 100% chez vous :** Vos brouillons et vos idées restent sur votre disque dur. Personne ne lit par-dessus votre épaule. Aucune donnée n'est envoyée dans le cloud.
 * **♾️ Zéro limite de crédits :** Testez 50 variantes d'une phrase si vous voulez. Aucun compteur ne tourne. Le "droit au gâchis" est rétabli.
-* **🎙️ Parlez, c'est écrit :** Module de dictée vocale (speech-to-text) embarqué. Capturez vos idées à la vitesse de la pensée sans connexion internet.
+* **🎙️ Parlez, c'est écrit :** Module de dictée vocale (speech-to-text) embarqué. Capturez vos idées à la vitesse de la pensée.
 
 ## 🖼️ Aperçu
 
