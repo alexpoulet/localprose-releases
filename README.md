@@ -24,8 +24,6 @@ Ne louez plus votre intelligence aux services IA dans le Cloud.
 
 ![Interface LocalProse - Ecran de démarrage](https://www.localprose.com/assets/images/screenshots/localprose_ecran_intro.png)
 
-![Interface LocalProse - Editeur](https://www.localprose.com/assets/images/screenshots/localprose_editeur.png)
-
 ## 🛠️ Installation
 
 1.  Rendez-vous dans l'onglet **[Releases](https://github.com/alexpoulet/LocalProse-Releases/releases)**.
