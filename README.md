@@ -10,7 +10,7 @@
 
 ## 📥 Téléchargement
 
-**[Accéder à la dernière version (Windows, macOS & Linux) →](https://github.com/alexpoulet/LocalProse-Releases/releases/latest)**
+**[Accéder à la dernière version (Windows / macOS / Linux) →](https://github.com/alexpoulet/localprose-releases/releases/latest)**
 
 ---
 
@@ -27,7 +27,7 @@ Ne louez plus votre intelligence aux services IA dans le Cloud.
 
 ## 🛠️ Installation
 
-1.  Rendez-vous dans l'onglet **[Releases](https://github.com/alexpoulet/LocalProse-Releases/releases)**.
+1.  Rendez-vous dans l'onglet **[Releases](https://github.com/alexpoulet/localprose-releases/releases)**.
 2.  Téléchargez le fichier adapté à votre système :
     * Windows : `.exe`
     * macOS : `.dmg` (Apple Silicon)
