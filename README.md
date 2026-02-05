@@ -30,6 +30,7 @@ Ne louez plus votre intelligence aux services IA dans le Cloud.
 2.  Téléchargez le fichier adapté à votre système :
     * Windows : `.exe`
     * macOS : `.dmg` (Apple Silicon)
+    * Linux : `.AppImage`
 3.  Lancez l'installation.
     * *Note : Au premier lancement, le logiciel téléchargera les modèles IA nécessaires pour fonctionner 100% localement par la suite.*
 
