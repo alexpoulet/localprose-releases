@@ -1,8 +1,9 @@
 # LocalProse
 > **L'atelier d'écriture souverain. IA locale et illimitée.**
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/VOTRE-NOM/LocalProse-Dist/releases)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/VOTRE-NOM/LocalProse-Dist/releases)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/alexpoulet/localprose-releases/releases)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/alexpoulet/localprose-releases/releases)
+[![Linux](https://img.shields.io/badge/Linux-ffcc33?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/alexpoulet/localprose-releases/releases)
 [![License](https://img.shields.io/badge/License-Propriétaire-red.svg?style=for-the-badge)](https://www.localprose.com/cgu-cgv.html)
 
 ---
