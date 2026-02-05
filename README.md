@@ -10,7 +10,7 @@
 
 ## 📥 Téléchargement
 
-**[Accéder à la dernière version (Windows macOS & Linux) →](https://github.com/alexpoulet/LocalProse-Releases/releases/latest)**
+**[Accéder à la dernière version (Windows, macOS & Linux) →](https://github.com/alexpoulet/LocalProse-Releases/releases/latest)**
 
 ---
 
