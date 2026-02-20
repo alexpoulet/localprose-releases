@@ -21,25 +21,24 @@
 Stop renting your intelligence to Cloud AI services. 
 **LocalProse** is a writing workshop that runs on **YOUR** machine.
 
-* **🏠 100% On-Device AI:** Your drafts and ideas stay on your hard drive. No one is reading over your shoulder. No data is sent to the cloud.
-* **♾️ Zero credit limits:** Test 50 variations of a sentence if you want. No counter is ticking. The "right to waste" is restored.
-* **🎙️ Speak, it's written:** Built-in voice dictation (speech-to-text) module. Capture your ideas at the speed of thought.
+* **🏠 100% On-Device AI :** Your drafts and ideas stay on your hard drive. No one is reading over your shoulder. No data is sent to the cloud.
+* **♾️ Zero credit limits :** Test 50 variations of a sentence if you want. No counter is ticking. The "right to waste" is restored.
+* **🎙️ Speak, it's written :** Built-in voice dictation (speech-to-text) module. Capture your ideas at the speed of thought.
 
-![LocalProse Interface - Welcome Screen](https://www.localprose.com/assets/images/screenshots/localprose_ecran_intro.png)
+![LocalProse Interface - Welcome Screen](https://www.localprose.com/assets/images/screenshots/en/localprose_home_screen.jpg)
 
 ## 🛠️ Installation
 
 1. Go to the **[Releases](https://github.com/alexpoulet/localprose-releases/releases)** tab.
 2. Download the appropriate file for your system:
-   * Windows: `.exe`
-   * macOS: `.dmg` (Apple Silicon)
-   * Linux: `.AppImage`
+   * Windows : `.exe`
+   * macOS : `.dmg` (Apple Silicon)
+   * Linux : `.AppImage`
 3. Run the installation.
-   * *Note: Upon first launch, the software will download the necessary AI models to operate 100% locally thereafter.*
+   * *Note : Upon first launch, the software will download the necessary AI models to operate 100% locally thereafter.*
 
 ---
 
 ### About
 
-Designed by **[Alexandre Poulet](https://www.alexandre-poulet.com/en/)**, President and developer at **[Poulet Interactive](https://www.pouletinteractive.com)**.
-*Read the full manifesto on [LocalProse.com](https://www.localprose.com/en/).*
+Designed by **[Alexandre Poulet](https://www.alexandre-poulet.com)**, President and developer at **[Poulet Interactive](https://www.pouletinteractive.com)**.
