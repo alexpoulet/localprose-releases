@@ -1,3 +1,5 @@
+*🌍 Read this in [English](README_en.md)*
+
 # LocalProse
 > **L'atelier d'écriture souverain. IA locale et illimitée.**
 
