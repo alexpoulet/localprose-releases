@@ -1,10 +1,86 @@
-LOGICIEL LOCALPROSE — CONTRAT DE LICENCE
+LOGICIEL LOCALPROSE — CONTRAT DE LICENCE (CLUF)
+LOCALPROSE SOFTWARE — END USER LICENSE AGREEMENT (EULA)
 
-L'installation et l'utilisation du logiciel LocalProse nécessitent la création d'un compte utilisateur et l'acceptation des Conditions Générales d'Utilisation et de Vente (CGU/CGV).
+--- [ FRANÇAIS ] ------------------------------------------------------------
 
-Le logiciel peut être utilisé gratuitement avec des fonctionnalités restreintes ("Compte Gratuit"). L'accès à l'intégralité des fonctionnalités nécessite la souscription à un abonnement optionnel ("Compte Pro").
+Le logiciel LocalProse est la propriété exclusive de Poulet Interactive.
+L'installation et l'utilisation du logiciel valent acceptation sans réserve des
+Conditions Générales d'Utilisation et de Vente (CGU/CGV).
 
-Le texte complet des conditions et les termes de la licence d'utilisation (EULA) sont consultables en ligne à l'adresse suivante :
+1. MODES D'UTILISATION :
+- Version Gratuite : utilisable sans limite de durée, pour l'écriture et le
+  world-building de base. Ne nécessite pas la création d'un compte utilisateur.
+- Version Pro : débloque les fonctions d'IA locale et avancées. Nécessite
+  l'achat d'une licence à vie ("Licence Pro") et la création d'un compte
+  sur localprose.com pour l'obtention de la clé.
+
+2. ACTIVATION ET HORS-LIGNE :
+L'activation d'une Licence Pro nécessite une connexion internet temporaire.
+Une fois activée, la licence est validée localement sur l'appareil
+et permet une utilisation illimitée sans connexion internet requise.
+
+3. COMPOSANTS TIERS ET MODÈLES IA :
+Le code de LocalProse appartient à Poulet Interactive. Le téléchargement et
+l'utilisation des modèles d'Intelligence Artificielle en local sont soumis
+aux licences de leurs créateurs respectifs :
+- Gemma 3 (Google) : Soumis à la "Gemma Prohibited Use Policy".
+- Qwen 3 (Alibaba) : Soumis à la "Tongyi Qianwen License".
+- Whisper (OpenAI) : Distribué sous licence open-source MIT (voir l'Annexe).
+
+Le texte complet des conditions est consultable à l'adresse suivante :
 https://www.localprose.com/cgu-cgv.html
 
-(c) LocalProse. Tous droits réservés.
+--- [ ENGLISH ] -------------------------------------------------------------
+
+LocalProse software is the exclusive property of Poulet Interactive.
+By installing and using this software, you agree to the Terms of Service (ToS).
+
+1. USAGE MODES:
+- Free Version: can be used without time limits for basic writing and
+  world-building. Does not require a user account.
+- Pro Version: unlocks local AI and advanced features. Requires a one-time
+  purchase of a Lifetime License ("Pro License") and the creation of an
+  account on localprose.com to obtain the key.
+
+2. ACTIVATION AND OFFLINE USE:
+Activating a Pro License requires a temporary internet connection. Once
+activated, the license is validated locally on the device
+and allows for unlimited use without requiring an internet connection.
+
+3. THIRD-PARTY COMPONENTS AND AI MODELS:
+LocalProse's code belongs to Poulet Interactive. Downloading and using local
+Artificial Intelligence models are subject to the licenses of their
+respective creators:
+- Gemma 3 (Google): Subject to the "Gemma Prohibited Use Policy".
+- Qwen 3 (Alibaba): Subject to the "Tongyi Qianwen License".
+- Whisper (OpenAI): Distributed under the open-source MIT License (see Appendix).
+
+The full terms and conditions are available at:
+https://www.localprose.com/en/terms.html
+
+--- [ ANNEXE / APPENDIX ] ---------------------------------------------------
+
+WHISPER (OpenAI) - MIT License
+
+Copyright (c) 2022 OpenAI
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-----------------------------------------------------------------------------
+(c) Poulet Interactive / LocalProse. Tous droits réservés.
