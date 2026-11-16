@@ -23,7 +23,7 @@ Ne louez plus votre intelligence aux services IA dans le Cloud.
 
 * **🏠 IA 100% chez vous :** Vos brouillons et vos idées restent sur votre disque dur. Personne ne lit par-dessus votre épaule. Aucune donnée n'est envoyée dans le cloud.
 * **♾️ Zéro limite de crédits :** Testez 50 variantes d'une phrase si vous voulez. Aucun compteur ne tourne. Le "droit au gâchis" est rétabli.
-* **🎙️ Parlez, c'est écrit :** Module de dictée vocale (speech-to-text) embarqué. Capturez vos idées à la vitesse de la pensée.
+* **🎙️ Parlez, c'est écrit :** Module de dictée vocale temps réel embarqué (speech-to-text). Écrivez vos idées à la vitesse de la pensée.
 
 ![Interface LocalProse - Ecran de démarrage](https://www.localprose.com/assets/images/screenshots/localprose_ecran_intro.jpg)
 
