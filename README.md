@@ -17,7 +17,7 @@
 
 ### 💻 Ordinateur (Windows, macOS, Linux)
 * **[Télécharger les installeurs directs sur GitHub Releases (`.exe`, `.dmg`, `.AppImage`) →](https://github.com/alexpoulet/localprose-releases/releases/latest)**
-* **[Obtenir sur le Microsoft Store (Windows 10/11) →](https://apps.microsoft.com/detail/9n7jvf96rgc0)**
+* **[Obtenir sur le Microsoft Store (Windows 10/11) →](https://apps.microsoft.com/detail/xp9m0phm81lmrj)**
 
 ### 📱 Mobile (Accès gratuit & synchro Wi-Fi locale)
 * **[Télécharger sur l'Apple App Store (iPhone) →](https://apps.apple.com/fr/app/localprose/id6761561427)**
