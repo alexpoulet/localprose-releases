@@ -3,66 +3,123 @@ LOCALPROSE SOFTWARE — END USER LICENSE AGREEMENT (EULA)
 
 --- [ FRANÇAIS ] ------------------------------------------------------------
 
-Le logiciel LocalProse est la propriété exclusive de Poulet Interactive.
+Le logiciel LocalProse est la propriété exclusive de Poulet Interactive (SASU).
 L'installation et l'utilisation du logiciel valent acceptation sans réserve des
 Conditions Générales d'Utilisation et de Vente (CGU/CGV).
 
-1. MODES D'UTILISATION :
-- Version Gratuite : utilisable sans limite de durée, pour l'écriture et le
-  world-building de base. Ne nécessite pas la création d'un compte utilisateur.
-- Version Pro : débloque les fonctions d'IA locale et avancées. Nécessite
-  l'achat d'une licence à vie ("Licence Pro") et la création d'un compte
-  sur localprose.com pour l'obtention de la clé.
+1. MODES D'UTILISATION (ORDINATEUR & MOBILE) :
+- Édition Gratuite : utilisable sans création de compte ni limite de durée sur
+  ordinateur (Windows, macOS, Linux) et sur mobile (iOS, Android) pour le socle
+  d'écriture et de construction d'univers (stockage 100 % local).
+- Essai 7 jours (Pro Trial) : évaluation gratuite unique de 7 jours activable
+  sans compte depuis la version ordinateur, extensible automatiquement à
+  l'application mobile lors d'une première synchronisation Wi-Fi LAN.
+- Licence Pro à vie : débloque de manière permanente l'ensemble des fonctions
+  Pro disponibles sur chaque plateforme (jusqu'à 2 ordinateurs + 2 mobiles
+  simultanément). Nécessite un achat unique et la création d'un compte client
+  exclusivement sur localprose.com pour l'obtention et la gestion de la clé.
 
-2. ACTIVATION ET HORS-LIGNE :
-L'activation d'une Licence Pro nécessite une connexion internet temporaire.
-Une fois activée, la licence est validée localement sur l'appareil
-et permet une utilisation illimitée sans connexion internet requise.
+2. ACTIVATION ET FONCTIONNEMENT HORS-LIGNE :
+Le démarrage d'un essai sur ordinateur ou l'activation d'une clé de Licence Pro
+nécessite une connexion internet ponctuelle. Une fois activée, la licence est
+vérifiable localement par certificat cryptographique signé et permet une
+utilisation hors-ligne illimitée.
 
-3. COMPOSANTS TIERS ET MODÈLES IA :
-Le code de LocalProse appartient à Poulet Interactive. Le téléchargement et
-l'utilisation des modèles d'Intelligence Artificielle en local sont soumis
-aux licences de leurs créateurs respectifs :
-- Gemma 3 (Google) : Soumis à la "Gemma Prohibited Use Policy".
-- Qwen 3 (Alibaba) : Soumis à la "Tongyi Qianwen License".
-- Whisper (OpenAI) : Distribué sous licence open-source MIT (voir l'Annexe).
+3. COMPOSANTS TIERS, MODÈLES D'IA ET POLICES EMBARQUÉES :
+Le code propriétaire de LocalProse appartient à Poulet Interactive. L'exécution
+locale s'appuie sur des moteurs, modèles d'IA et polices régis par les licences
+de leurs créateurs respectifs :
+- Gemma 3 (Google) : soumis aux "Gemma Terms of Use" et à la "Gemma Prohibited Use Policy".
+- Qwen 3 VL (Alibaba) : soumis au "Tongyi Qianwen License Agreement".
+- Ollama (Ollama Inc.) : distribué sous licence open-source MIT (voir Annexe).
+- Sherpa-ONNX & Kroko ASR (Xiaomi Corp. / Next-gen Kaldi / Banafo) : distribués
+  sous licence Apache 2.0 (voir Annexe).
+- Whisper (OpenAI / ggml) : distribué sous licence open-source MIT (voir Annexe).
+- Polices typographiques : Inter, Crimson Pro, Lora et Merriweather sont
+  distribuées sous licence SIL Open Font License 1.1 (OFL-1.1). La police
+  d'accessibilité Luciole (conçue par Laurent Bourcellier & Jonathan Perez,
+  Studio typographies.fr / CTRDV - https://luciole-vision.com) est intégrée sous
+  licence Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-Le texte complet des conditions est consultable à l'adresse suivante :
+4. FICHIERS AUDIO INCLUS :
+Les compositions musicales fournies sans DRM avec la version ordinateur sont
+régies par des conditions d'utilisation spécifiques. Veuillez consulter le
+fichier LICENSE_AUDIO.txt pour connaître vos droits d'écoute et de synchronisation.
+
+Le texte complet des conditions en vigueur est consultable à l'adresse :
 https://www.localprose.com/cgu-cgv.html
 
 --- [ ENGLISH ] -------------------------------------------------------------
 
-LocalProse software is the exclusive property of Poulet Interactive.
-By installing and using this software, you agree to the Terms of Service (ToS).
+LocalProse software is the exclusive property of Poulet Interactive (French SASU).
+By installing and using this software, you agree without reservation to the
+Terms of Service and Sale (ToS).
 
-1. USAGE MODES:
-- Free Version: can be used without time limits for basic writing and
-  world-building. Does not require a user account.
-- Pro Version: unlocks local AI and advanced features. Requires a one-time
-  purchase of a Lifetime License ("Pro License") and the creation of an
-  account on localprose.com to obtain the key.
+1. USAGE MODES (DESKTOP & MOBILE):
+- Free Edition: usable without a user account or time limit on desktop (Windows,
+  macOS, Linux) and mobile (iOS, Android) for core writing and world-building
+  features (100% local storage).
+- 7-Day Pro Trial: one-time 7-day free evaluation activated without an account
+  from the desktop app, automatically extendable to the mobile companion app
+  upon the first local Wi-Fi LAN synchronization.
+- Lifetime Pro License: permanently unlocks all Pro features available on each
+  platform (up to 2 desktop computers + 2 mobile devices simultaneously).
+  Requires a one-time purchase and an account created exclusively on
+  localprose.com to obtain and manage your license key.
 
 2. ACTIVATION AND OFFLINE USE:
-Activating a Pro License requires a temporary internet connection. Once
-activated, the license is validated locally on the device
-and allows for unlimited use without requiring an internet connection.
+Starting a desktop trial or activating a Pro License key requires a temporary
+internet connection. Once activated, the license is verified locally via a
+signed cryptographic certificate and allows unlimited offline use.
 
-3. THIRD-PARTY COMPONENTS AND AI MODELS:
-LocalProse's code belongs to Poulet Interactive. Downloading and using local
-Artificial Intelligence models are subject to the licenses of their
-respective creators:
-- Gemma 3 (Google): Subject to the "Gemma Prohibited Use Policy".
-- Qwen 3 (Alibaba): Subject to the "Tongyi Qianwen License".
-- Whisper (OpenAI): Distributed under the open-source MIT License (see Appendix).
+3. THIRD-PARTY COMPONENTS, AI MODELS AND EMBEDDED FONTS:
+LocalProse's proprietary code belongs to Poulet Interactive. Local execution
+relies on runtimes, AI models, and fonts governed by their respective licenses:
+- Gemma 3 (Google): Subject to Google's "Gemma Terms of Use" and "Gemma Prohibited Use Policy".
+- Qwen 3 VL (Alibaba): Subject to the "Tongyi Qianwen License Agreement".
+- Ollama (Ollama Inc.): Distributed under the open-source MIT License (see Appendix).
+- Sherpa-ONNX & Kroko ASR (Xiaomi Corp. / Next-gen Kaldi / Banafo): Distributed
+  under the Apache License 2.0 (see Appendix).
+- Whisper (OpenAI / ggml): Distributed under the open-source MIT License (see Appendix).
+- Embedded Fonts: Inter, Crimson Pro, Lora, and Merriweather are licensed under
+  the SIL Open Font License 1.1 (OFL-1.1). The Luciole accessibility typeface
+  (designed by Laurent Bourcellier & Jonathan Perez, Studio typographies.fr /
+  CTRDV - https://luciole-vision.com) is licensed under Creative Commons
+  Attribution 4.0 International (CC BY 4.0).
+
+4. INCLUDED AUDIO FILES:
+The DRM-free music tracks included with the desktop version are governed by
+specific terms of use. Please refer to LICENSE_AUDIO.txt for your listening and
+monetization synchronization rights.
 
 The full terms and conditions are available at:
 https://www.localprose.com/en/terms.html
 
 --- [ ANNEXE / APPENDIX ] ---------------------------------------------------
 
-WHISPER (OpenAI) - MIT License
+1. SHERPA-ONNX (Next-gen Kaldi) & KROKO ASR MODELS (Banafo) - Apache License 2.0
 
-Copyright (c) 2022 OpenAI
+Copyright (c) 2022-2026 Xiaomi Corporation & Next-gen Kaldi Contributors
+Copyright (c) 2025 Banafo (Kroko ASR Models)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use these components except in compliance with the License.
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+-----------------------------------------------------------------------------
+
+2. OLLAMA & WHISPER - MIT License
+
+Copyright (c) Ollama Inc. (Ollama runtime)
+Copyright (c) 2022 OpenAI & Georgi Gerganov / ggml contributors (Whisper)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -83,4 +140,17 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 -----------------------------------------------------------------------------
-(c) Poulet Interactive / LocalProse. Tous droits réservés.
+
+3. EMBEDDED TYPEFACES (SIL OFL 1.1 & CC BY 4.0)
+
+- Inter (Copyright The Inter Project Authors), Crimson Pro (Copyright Jacques
+  Le Bailly / Fonseca), Lora (Copyright Cyreal) & Merriweather (Copyright Sorkin
+  Type Co.): Licensed under the SIL Open Font License, Version 1.1
+  (https://openfontlicense.org).
+- Luciole Typeface: Copyright Center for Visual Impairment (CTRDV) &
+  typographies.fr (Laurent Bourcellier & Jonathan Perez). Licensed under
+  Creative Commons Attribution 4.0 International (CC BY 4.0 -
+  https://creativecommons.org/licenses/by/4.0/).
+
+-----------------------------------------------------------------------------
+(c) 2026 Poulet Interactive / LocalProse. Tous droits réservés / All rights reserved.
